@@ -9,19 +9,8 @@ body {
     line-height: 1.6;
 }
 
-
-
-
-
-
-
-
-
-
-
-
 .promo {
-    background-image: url('les'); /* Замените на путь к вашей фотографии */
+    background-image: url('les.jpg'); /* Замените на путь к вашей фотографии */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
